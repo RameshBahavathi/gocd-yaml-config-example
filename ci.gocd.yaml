@@ -1,5 +1,5 @@
 environments:
-  example:
+ UAT:
     environment_variables:
       EXAMPLE_DEPLOYMENT: testing
     pipelines:
